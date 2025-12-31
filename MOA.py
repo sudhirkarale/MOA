@@ -49,7 +49,7 @@ SAMPLE_INTERVAL = 1.0 / TARGET_FPS
 model_path_emo = "/home/sudhir/Desktop/OCT_23/Mood_cls/facial_expression_recognition_mobilefacenet_2022july.onnx"
 model_path_face = "/home/sudhir/Desktop/Mood_Detection/face_detection_yunet_2023mar.onnx"
 model_path_gender = "/home/sudhir/Desktop/OCT_23/Gender_classification/GenderClassification/YOLOv11_gender4/weights/best.onnx"
-model_path_age = "/home/sudhir/Desktop/OCT_23/Age/ageClassification/YOLOv11s_age_2245/weights/best.onnx"
+model_path_age = "/home/sudhir/Desktop/OCT_23/Age/ageClassification/YOLOv11s_age_2245/weights/best_age.onnx"
 
 # Labels
 mood_classes = ["angry", "disgust", "fearful", "happy", "neutral", "sad", "surprised"]
